@@ -1,12 +1,11 @@
 """
-Name: Data Reliability Demo
+Name: Data Reliability as code -  Demo
 Author: Guilhem Maillebuau
-Api which outlow the concept of data reliability as code 
+API which demonstrate the concept of data reliability as code 
 """
 
 from waitress import serve
 from api import create_app
-
 
 if __name__ == "__main__":   
 
