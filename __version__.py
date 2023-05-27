@@ -1,0 +1,1 @@
+SmartDQ_Core_Verion = "1.0.0"
